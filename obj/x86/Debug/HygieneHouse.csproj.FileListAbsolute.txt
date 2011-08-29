@@ -1,0 +1,17 @@
+C:\Data\My Works\C#.NET\HygieneHouse\HygieneHouse\bin\Debug\HygieneHouse.exe.config
+C:\Data\My Works\C#.NET\HygieneHouse\HygieneHouse\bin\Debug\HygieneHouse.exe
+C:\Data\My Works\C#.NET\HygieneHouse\HygieneHouse\bin\Debug\HygieneHouse.pdb
+C:\Data\My Works\C#.NET\HygieneHouse\HygieneHouse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Data\My Works\C#.NET\HygieneHouse\HygieneHouse\obj\x86\Debug\HygieneHouse.frmAbout.resources
+C:\Data\My Works\C#.NET\HygieneHouse\HygieneHouse\obj\x86\Debug\HygieneHouse.frmDrug.resources
+C:\Data\My Works\C#.NET\HygieneHouse\HygieneHouse\obj\x86\Debug\HygieneHouse.frmSupplier.resources
+C:\Data\My Works\C#.NET\HygieneHouse\HygieneHouse\obj\x86\Debug\HygieneHouse.UC_DBNavigation.resources
+C:\Data\My Works\C#.NET\HygieneHouse\HygieneHouse\obj\x86\Debug\HygieneHouse.frmMainForm.resources
+C:\Data\My Works\C#.NET\HygieneHouse\HygieneHouse\obj\x86\Debug\HygieneHouse.Properties.Resources.resources
+C:\Data\My Works\C#.NET\HygieneHouse\HygieneHouse\obj\x86\Debug\HygieneHouse.UC_MainMenu.resources
+C:\Data\My Works\C#.NET\HygieneHouse\HygieneHouse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Data\My Works\C#.NET\HygieneHouse\HygieneHouse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Data\My Works\C#.NET\HygieneHouse\HygieneHouse\obj\x86\Debug\HygieneHouse.exe
+C:\Data\My Works\C#.NET\HygieneHouse\HygieneHouse\obj\x86\Debug\HygieneHouse.pdb
+C:\Data\My Works\C#.NET\HygieneHouse\HygieneHouse\obj\x86\Debug\HygieneHouse.frmSupplierold.resources
+C:\Data\My Works\C#.NET\HygieneHouse\HygieneHouse\obj\x86\Debug\HygieneHouse.frmCustomer.resources
